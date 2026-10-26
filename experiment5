@@ -6,7 +6,9 @@
     <title>Experiment-05</title>
 </head>
 <body>
-    <center><h1>Student Registration form</h1></center>
+    <center>
+        <h1>Student Registration form</h1>
+    </center>
        <hr>
        <form action="#">
         <label fot="full name">Full Name:</label>
